@@ -1,5 +1,3 @@
-# py C:\Users\Owner\PythonCoding\MovementReminder\MovementReminder.py
-
 import random, sys
 from datetime import datetime
 from pathlib import Path
